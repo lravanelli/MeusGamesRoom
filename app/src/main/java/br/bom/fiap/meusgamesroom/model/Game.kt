@@ -25,5 +25,6 @@ class Game {
         this.id = id
         this.nome = nome
         this.plataforma = plataforma
+        //come
     }
 }
